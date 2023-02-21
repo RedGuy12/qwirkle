@@ -22,7 +22,7 @@
 		"mime-types": "2.1.35",
 		"modern-normalize": "1.1.0",
 		"serve-handler": "6.1.5",
-		"socket.io": "4.5.4",
+		"socket.io": "4.6.0",
 		"twemoji": "14.0.2",
 		"vue": "3.2.47",
 		"vue-class-component": "8.0.0-rc.1",
